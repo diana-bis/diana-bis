@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**diana-bis/diana-bis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Diana**, a Computer Science student.  
+This GitHub profile contains my academic projects, exercises, and learning experiments.
 
-Here are some ideas to get you started:
+### 📚 About Me
+- Currently studying programming and computer science fundamentals
+- So far I've worked with:
+  - **C/C++**
+  - **Java**
+  - **Python**
+- Always learning, always building!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🗃 Repositories
+Most repositories are **private** to keep things neat.  
+If you're interested in something specific, feel free to **ask — I'll gladly share!**
+
+---
+
+Thanks for visiting 💻🌱
+
